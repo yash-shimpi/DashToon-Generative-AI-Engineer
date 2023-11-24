@@ -17,13 +17,13 @@ This project implements neural style transfer using TensorFlow and a pre-trained
 	<td><a id="first">1</a></td>
 	<td><img src="/content.jpg" width="400" /></td>
 	<td><img src="/van gogh.jpeg" width="400" /></td>
-	<td><img src="bhu_van_gogh.jpg" width="400" /></td>
+	<td><img src="/bhu_van_gogh.png" width="400" /></td>
 </tr>
 <tr>
 	<td><a id="second">2</a></td>
 	<td><img src="temple.JPEG" width="400" /></td>
 	<td><img src="van gogh.jpeg"  width="400" /></td>
-	<td><img src="temple_van_gogh.png" width="400" /></td>
+	<td><img src="/temple_van_gogh.jpg" width="400" /></td>
 </tr>
 </table>
 
